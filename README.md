@@ -7,3 +7,5 @@
 | Assiment | Links                                                     |
 | -------- | --------------------------------------------------------- |
 | Pull 01  | [Pull 01 ](https://github.com/AnasAGc/snakes-cafe/pull/1) |
+| Pull 01  | [Pull 01 ](https://github.com/AnasAGc/snakes-cafe/pull/1) |
+
